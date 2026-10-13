@@ -51,7 +51,6 @@ export default function App() {
 
   const [form, setForm] = useState(emptyForm);
   
-
   const [search, setSearch] = useState("");
 
   const [filter, setFilter] = useState("ALL");
